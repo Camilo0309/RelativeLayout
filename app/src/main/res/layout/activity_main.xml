@@ -106,7 +106,7 @@
         android:layout_centerInParent="true"
         />
 
-    <!-- alinear al centro abajo -->
+    <!-- alinear a la derecha abajo -->
     <TextView
         android:id= "@+id/txt_9"
         android:layout_width="wrap_content"
